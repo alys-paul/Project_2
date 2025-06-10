@@ -100,7 +100,7 @@ streamlit run nutrition_paradox_dashboard.py
 
 ### 6. 📝 Summary & Insights
 
-* Africa and South-East Asia face high malnutrition rates.
+* India and South-East Asia face high malnutrition rates.
 
 * Developed countries show rising obesity, especially among adults.
 
